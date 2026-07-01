@@ -18,7 +18,7 @@ describe("Array", () => {
         console.info(person[0]);
         console.info(person[1]);
         console.info(person[2]);
-        person[0] = 'Joko';
+        // person[0] = 'Joko'; // error
     });
 });
 export {};
